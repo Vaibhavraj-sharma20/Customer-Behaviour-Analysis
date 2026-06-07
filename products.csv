@@ -1,0 +1,100 @@
+product_id,category,sub_category,brand
+5001,Fashion,Shoes,BrandA
+5002,Electronics,Shoes,BrandB
+5003,Home Decor,Mobiles,BrandD
+5004,Electronics,Shirts,BrandA
+5005,Home Decor,Shirts,BrandA
+5006,Fashion,Shirts,BrandD
+5007,Home Decor,Shoes,BrandA
+5008,Home Decor,Laptops,BrandB
+5009,Electronics,Lamps,BrandC
+5010,Fashion,Shoes,BrandD
+5011,Electronics,Shirts,BrandB
+5012,Fashion,Shoes,BrandD
+5013,Electronics,Mobiles,BrandD
+5014,Home Decor,Shirts,BrandA
+5015,Electronics,Mobiles,BrandA
+5016,Fashion,Shirts,BrandB
+5017,Fashion,Shoes,BrandD
+5018,Home Decor,Laptops,BrandA
+5019,Fashion,Lamps,BrandA
+5020,Electronics,Mobiles,BrandD
+5021,Home Decor,Shoes,BrandB
+5022,Fashion,Laptops,BrandB
+5023,Fashion,Shoes,BrandD
+5024,Electronics,Mobiles,BrandB
+5025,Electronics,Lamps,BrandA
+5026,Home Decor,Shoes,BrandD
+5027,Fashion,Shirts,BrandA
+5028,Electronics,Laptops,BrandC
+5029,Home Decor,Shoes,BrandC
+5030,Fashion,Laptops,BrandB
+5031,Fashion,Shirts,BrandC
+5032,Home Decor,Lamps,BrandA
+5033,Home Decor,Lamps,BrandC
+5034,Electronics,Shirts,BrandA
+5035,Fashion,Laptops,BrandB
+5036,Fashion,Shoes,BrandB
+5037,Fashion,Shirts,BrandA
+5038,Home Decor,Mobiles,BrandC
+5039,Electronics,Laptops,BrandB
+5040,Fashion,Lamps,BrandD
+5041,Home Decor,Shirts,BrandB
+5042,Fashion,Lamps,BrandC
+5043,Electronics,Laptops,BrandD
+5044,Fashion,Lamps,BrandC
+5045,Electronics,Shirts,BrandA
+5046,Electronics,Laptops,BrandD
+5047,Fashion,Mobiles,BrandC
+5048,Fashion,Shirts,BrandD
+5049,Electronics,Shoes,BrandC
+5050,Home Decor,Shirts,BrandD
+5051,Electronics,Laptops,BrandC
+5052,Fashion,Shirts,BrandA
+5053,Fashion,Mobiles,BrandD
+5054,Home Decor,Mobiles,BrandD
+5055,Electronics,Shoes,BrandD
+5056,Electronics,Lamps,BrandD
+5057,Electronics,Laptops,BrandA
+5058,Fashion,Laptops,BrandD
+5059,Electronics,Lamps,BrandB
+5060,Home Decor,Mobiles,BrandA
+5061,Fashion,Mobiles,BrandB
+5062,Fashion,Shirts,BrandD
+5063,Electronics,Shoes,BrandC
+5064,Home Decor,Shoes,BrandB
+5065,Fashion,Shoes,BrandD
+5066,Fashion,Shirts,BrandB
+5067,Electronics,Shoes,BrandD
+5068,Electronics,Lamps,BrandD
+5069,Home Decor,Shirts,BrandD
+5070,Electronics,Lamps,BrandC
+5071,Home Decor,Shirts,BrandB
+5072,Fashion,Shoes,BrandA
+5073,Home Decor,Lamps,BrandA
+5074,Home Decor,Lamps,BrandA
+5075,Home Decor,Lamps,BrandA
+5076,Fashion,Shirts,BrandD
+5077,Electronics,Laptops,BrandB
+5078,Fashion,Shoes,BrandB
+5079,Electronics,Lamps,BrandC
+5080,Home Decor,Laptops,BrandB
+5081,Home Decor,Shoes,BrandB
+5082,Home Decor,Shoes,BrandB
+5083,Home Decor,Lamps,BrandC
+5084,Home Decor,Lamps,BrandA
+5085,Electronics,Shirts,BrandB
+5086,Electronics,Laptops,BrandC
+5087,Home Decor,Laptops,BrandC
+5088,Fashion,Lamps,BrandD
+5089,Fashion,Shoes,BrandC
+5090,Home Decor,Lamps,BrandA
+5091,Electronics,Shoes,BrandB
+5092,Fashion,Shoes,BrandC
+5093,Fashion,Lamps,BrandA
+5094,Fashion,Mobiles,BrandC
+5095,Home Decor,Laptops,BrandC
+5096,Fashion,Shoes,BrandC
+5097,Fashion,Shoes,BrandC
+5098,Fashion,Mobiles,BrandC
+5099,Fashion,Shirts,BrandA
