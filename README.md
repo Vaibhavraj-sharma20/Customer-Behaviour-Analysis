@@ -4,7 +4,7 @@
 
 ##  Project Overview
 
-This project simulates the day-to-day responsibilities of a **Data Analyst**. It focuses on analyzing customer purchasing behavior and automating weekly sales reports using **Power BI** and **Python**. The project mimics a real company scenario, complete with tasks, deliverables, and insights.
+This project simulates the day-to-day responsibilities of a **Data Analyst**. It focuses on analyzing customer purchasing behavior and automating weekly sales reports using **Power BI** and **Python**. The  project mimics a real company scenario, complete with tasks, deliverables, and insights.
 
 ---
 
